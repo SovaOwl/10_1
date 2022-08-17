@@ -1,0 +1,8 @@
+# ninja log v5
+3	176	6824654887683900	build.ninja	46574c08a7efe2b4
+1	134	6824654887683900	build.ninja	46574c08a7efe2b4
+0	227	6824654890627500	CMakeFiles/my_first_cmake_program.dir/Source1.cpp.obj	dfbbdbbbc03c2532
+0	621	6824656733929355	CMakeFiles/my_first_cmake_program.dir/Source1.cpp.obj	dfbbdbbbc03c2532
+622	1361	6824656740750274	my_first_cmake_program.exe	2a226845b27611dc
+0	684	6824657263946917	CMakeFiles/my_first_cmake_program.dir/Source1.cpp.obj	dfbbdbbbc03c2532
+685	1185	6824657267545456	my_first_cmake_program.exe	2a226845b27611dc
